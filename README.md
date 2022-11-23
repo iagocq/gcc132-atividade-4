@@ -5,7 +5,7 @@ Pangrama é uma *frase* que usa **todas** as letras do alfabeto pelo menos uma v
 Exemplos:
 - The quick brown fox jumps over the lazy dog.
 - Sphinx of black quartz, judge my vow.
-- Todo pajé vulgar faz boquinha sexy com kiwi.
+- TV faz quengo explodir com whisky JB.
 
 Fontes:
 - <https://en.wikipedia.org/wiki/Pangram>
