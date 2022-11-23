@@ -10,3 +10,5 @@ Exemplos:
 Fontes:
 - <https://en.wikipedia.org/wiki/Pangram>
 - <https://pt.wikipedia.org/wiki/Pangrama>
+
+![Uma raposa pulando sobre um cachorro](https://upload.wikimedia.org/wikipedia/commons/8/80/Fox_Jumping_Over_A_Dog_in_Signaling_for_Boys.png)
