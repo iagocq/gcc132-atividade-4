@@ -22,7 +22,7 @@ Fontes:
 
 int main() {
     char letras[] = "abcdefghijklmnopqrstuvwxyz";
-    int vistas[256 << sizeof(char)] = {};
+    int vistas[1 << (8 * sizeof(char))] = {};
     char c;
 
     while ((c = getchar()) != EOF) {
